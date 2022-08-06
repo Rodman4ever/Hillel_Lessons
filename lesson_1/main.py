@@ -5,22 +5,24 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 import second
 
-def print_hi(name):
+#def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+   #print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+#if __name__ == '__main__':
+    #import lesson_2
 
-import this
+    #print_hi('PyCharm')
+
+#import this
 # import this - point 3.a of home work Zen of Python presents a set of 19 guidelines for writing computer programs
 
-import antigravity
+#import antigravity
 #import antigravity - point 3.b of home work The command opens an XKCD comic that mentions Python in the browser.
 
-import __hello__
+#import __hello__
 #import __hello__ point 3.c of home work print the most famous phrase in programming
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
