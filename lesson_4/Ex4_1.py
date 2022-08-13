@@ -1,7 +1,7 @@
-first_day_km = int(input())
-y = int(input())
-i = 1
-while x < y:
-    x *= 1.1
-    i += 1
-print(i)
+first_day_km = int(input('enter first_day_km: '))
+ever_day_km = int(input('enter ever_day_km: '))
+days = 1
+while first_day_km < ever_day_km:
+    first_day_km *= 1.1
+    days += 1
+print(days)
