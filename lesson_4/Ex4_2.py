@@ -11,8 +11,7 @@
 # print(str('sum of numbers is :  ') + str(_sum_))
 
 user_list = []
-import.functools
-print("PRESS 0 to see: \n\t 1. Amount of numbers \n\t 2. Sum \n\t 3. Average \n\t 4. Minimum \n\t 5. Maximum \n\t 4. Maximum ")
+import numpy
 
 while True:
     value = int(input('Type number by choice and hit Enter: '))
@@ -22,12 +21,22 @@ while True:
         break
 count_of = len(user_list)
 sum_of = sum(user_list)
-max_of = max(user_list)
-min_of = min(user_list)
+mult_of = numpy.prod(user_list)
 avg_of = sum_of / len(user_list)
-mult_of = reduce(user_list)
-print(count_of)
-print(sum_of)
-print(max_of)
-print(min_of)
-print(avg_of)
+max_of = max(user_list)
+enum_of = user_list.index(max(user_list)) + 1
+odd_count = len(list(filter(lambda x: (x % 2 != 0), user_list)))
+even_count = len(list(filter(lambda x: (x % 2 == 0), user_list)))
+quan_max = len(list(filter(lambda x: (x == max_of), user_list)))
+
+print("Quantity of elements is:", count_of)
+print("Sum of elements is:", sum_of)
+print("Multiply of elements is:", mult_of)
+print("Average of elements is:", avg_of)
+print("Max of elements is:", max_of)
+print("index of max element is:", enum_of)
+print("Quantity of odd (нечет) element is:", odd_count)
+print("Quantity of even (чет) element is:", even_count)
+print("Second largest element is:", sorted(user_list)[-2])
+print("Quantity of max element is:", quan_max)
+
