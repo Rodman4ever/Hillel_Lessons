@@ -1,0 +1,10 @@
+The dictionary {'code': 55, 'quantity': 232, 'note': 23} {'code': 55, 'quantity': 232, 'note': 23} has invalid data 1
+
+The dictionary {'code': 55, 'quantity': 232, 'note': 23} {'code': 55, 'quantity': 232, 'note': 23} has invalid data 2
+
+The dictionary {'code': 55, 'quantity': 232, 'note': 23} {'code': 55, 'quantity': 232, 'note': 23} has invalid data
+The dictionary {'code': 55, 'quantity': 232, 'note': 23} {'code': 55, 'quantity': 232, 'note': 23} has invalid data
+The dictionary {'code': 55, 'quantity': 232, 'note': 23} {'code': 55, 'quantity': 232, 'note': 23} has invalid data
+The dictionary {'code': 55, 'quantity': 232, 'note': 23} {'code': 55, 'quantity': 232, 'note': 23} has invalid data
+The dictionary {'code': 55, 'quantity': 232, 'note': 23} {'code': 55, 'quantity': 232, 'note': 23} has invalid data
+The dictionary {'code': 55, 'quantity': 232, 'note': 23} {'code': 55, 'quantity': 232, 'note': 23} has invalid data
