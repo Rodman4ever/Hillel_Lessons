@@ -26,3 +26,8 @@ import second
 #import __hello__ point 3.c of home work print the most famous phrase in programming
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# import requests
+# import statistics
+#
+# n = statistics.mean[(5, 6, 9)]
+# print(n)

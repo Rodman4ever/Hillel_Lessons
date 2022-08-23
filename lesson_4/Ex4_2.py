@@ -39,4 +39,3 @@ print("Quantity of odd (нечет) element is:", odd_count)
 print("Quantity of even (чет) element is:", even_count)
 print("Second largest element is:", sorted(user_list)[-2])
 print("Quantity of max element is:", quan_max)
-
